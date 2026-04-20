@@ -11,7 +11,7 @@ This is a progress tracking web application designed to help users manage tasks 
 **Technologies Used:**
 - HTML
 - CSS
-- JavaScript
+- JavaScript.
 **Live Demo:**
 [View Live Site](https://naomi12-chi.github.io/discipline-trackers/)
 **How It Works:**
